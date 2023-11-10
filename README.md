@@ -6,17 +6,17 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
-program the code with def circulate.
+Program the code with def circulate.
 ### Step 2: 
 Get the value from the user for the number of rotation
 ### Step 3:
-print the circulating values
+Print the circulating values
 ### Step 4: 
 Using the slicing concept rotate the list
 ### Step 5: 
-evaluate the a input.
+Evaluate the a input.
 ### Step 6: 
-enter integer (n) in input. 
+Enter integer (n) in input. 
 ## Program:
 ```
 #Program to circulate N values.
